@@ -8,18 +8,26 @@ Minha formação inclui graduação em Ciências Atuariais pela UFRGS (2007), gr
 
 -- **Atualmente mais focado em**:
 <div display="inline">
-<img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+&nbsp;<img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</a>&nbsp;&nbsp;
 <img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+</a>&nbsp;&nbsp;
 <img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+</a>&nbsp;&nbsp;
 <img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
+</a>&nbsp;&nbsp;
 <img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />       
+</a>&nbsp;&nbsp;
 </div>
 
-#### Você também me encontra em:
+##
+
+-- **Você também me encontra em**:
+<div display="inline">
 <a href="https://www.linkedin.com/in/marchesilopes/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-          
+</div>          
           
 
 <!--
