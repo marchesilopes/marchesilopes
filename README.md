@@ -8,11 +8,11 @@ Minha formação inclui graduação em Ciências Atuariais pela UFRGS (2007), gr
 
 -- **Atualmente mais focado em**:
 <div display="inline">
-<img width="150" heigth="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="150" heigth="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img width="150" heigth="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<img width="150" heigth="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
-<img width="150" heigth="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />       
+<img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
+<img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />       
 </div>
 
 #### Você também me encontra em:
