@@ -18,6 +18,10 @@ Minha formação inclui graduação em Ciências Atuariais pela UFRGS (2007), gr
 </a>&nbsp;&nbsp;
 <img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />       
 </a>&nbsp;&nbsp;
+<img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />       
+</a>&nbsp;&nbsp;
+<img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />       
+</a>&nbsp;&nbsp;
 </div>
 
 ##
